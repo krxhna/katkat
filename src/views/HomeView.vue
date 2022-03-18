@@ -10,11 +10,11 @@ function kat(){
 
 <template>
 <div class="hello2">
-hello
+helllooooooooooooo
 
 
 
-<button class="btn1" @click="kat">butt</button>
+<button class="btn1" @click="kat"> Big Butt</button>
 
 </div>
  
@@ -25,9 +25,12 @@ hello
 .hello2{
   padding: 0;
   margin: 0;
+  font-size: xx-large;
   height: 100vh;
   width: 100vw;
-  background-color: aqua ;
+  display: flex;
+  background-color: rgb(255, 255, 255) ;
+  flex-direction: column;
 
   
   color:red;
@@ -36,7 +39,8 @@ hello
 }
 
 .btn1{
-  height: 20;
+  height: 20vh;
+  width: 30vw;
   background-color: whitesmoke;
 }
 
