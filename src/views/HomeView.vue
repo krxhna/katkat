@@ -14,7 +14,7 @@ hello
 
 
 
-<button class="btn1" @click="kat">kat's butt🍑</button>
+<button class="btn1" @click="kat">butt</button>
 
 </div>
  
